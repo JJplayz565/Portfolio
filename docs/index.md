@@ -33,3 +33,5 @@ I have completed a few courses on Unity Learn.
 I have made various things, ranging from simple mods to small games.
 
 [Portfolio](portfolio/overview.md)
+
+> Please excuse the layout of these pages as they are currently made with Markdown. I shall be transferring everything to HTML at some point.
