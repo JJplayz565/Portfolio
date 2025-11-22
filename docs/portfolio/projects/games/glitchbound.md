@@ -1,4 +1,4 @@
-[< back](jjplayz.github.io/Portfolio/portfolio/overview)
+[< back](/Portfolio/portfolio/overview)
 
 # Glitchbound
 
